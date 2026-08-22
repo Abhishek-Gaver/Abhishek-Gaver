@@ -1,9 +1,11 @@
 ## Hi there, I'm Abhishek 👋
 
-🚀 I'm a web developer, learned HTML, CSS, and JavaScript.
-🛠 Currently building: Notes App, Weather App, and business websites.
-📚 Learning from: Free online resources & self-practice.
-🎯 Goal: Become a freelance web developer.
+🚀 Freelance web developer based in Bulandshahr, UP
+🛠 I build responsive business websites — HTML, CSS, JavaScript
+📂 Recent work: Restaurant, cafe, and security/IT business demos (see repos below)
+💼 Services: Custom website design, deployment, and ongoing maintenance
+📧 Contact: [9675453920]
 
 ### Connect with me
 - 📧 GitHub: [Abhishek-Gaver](https://github.com/Abhishek-Gaver)
+- 📞Mobile no.: 9675453920
